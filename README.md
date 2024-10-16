@@ -1,4 +1,4 @@
-# MÉTODOS
+# TRIÂNGULO
 
 Crie um projeto no com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
 
