@@ -1,24 +1,14 @@
 # TRIÂNGULO
 
-Crie um projeto no com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
+O projeto foi desenvolvido com dois pacotes principais: "utilidades" e "impressao". No pacote utilidades, foi criada a classe FuncoesUteis, contendo os seguintes métodos:
 
-Soma(int, int) que retorna a soma dos parâmetros;
+soma(int, int): retorna a soma de dois números inteiros.
 
-Triangulo(int altura) que exibe um triângulo com a altura especificada. Exemplo:
+printArquivoSoma(int): exibe o resultado da soma no console.
 
-x
+printArquivoTriangulo(int): imprime no console um triângulo feito com o caractere x, com altura definida como parâmetro.
 
-xx
-
-xxx
-
-xxxx
-
-Xxxxx
-
-printArquivo(String arquivo) que lê um arquivo de texto e imprime seu conteúdo.
-
-Crie a classe Main em outro pacote e teste as funções da classe FuncoesUteis.
+A classe Main, localizada no pacote "impressao", realiza a chamada e teste dessas funções, exibindo o resultado da soma de dois valores e a impressão de um triângulo com altura fixa.
 
 ### 📋 Pré-requisitos
 
